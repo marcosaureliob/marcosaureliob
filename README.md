@@ -16,7 +16,4 @@ Olá, meu nome é Marcos Aurélio, sou um engenheiro de software apaixonado por 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Status
-![Marcos Aurélio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosaureliob&show_icons=true&theme=radical)
-
 Sinta-se à vontade para explorar meus projetos e entrar em contato! Vamos construir algo incrível juntos! 🚀
