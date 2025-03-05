@@ -14,7 +14,7 @@ Estou sempre explorando novas tecnologias e melhores práticas para desenvolver 
 
 
 📬 Vamos Conectar?
-📧 E-mail: marcosaureliobrazdossantos@gmail.com
+📧 E-mail: marcosaureliobrazdossantos@gmail.com <br/>
 💼 LinkedIn: linkedin.com/in/marcos-aur%C3%A9lio-0484511b3
 
 Sempre aberto a novas oportunidades e colaborações! 🚀
